@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Set the folder path
+folder_path="inductor/"
+
+# Change directory to the folder containing the files
+cd "$folder_path" || exit
+
+# Counter for renaming
+index=0
+
+# Loop through each file in the folder
+for file in *; do
+    # Check if the file is a regular file
+    if [ -f "$file" ]; then
+        # Extract the file extension
+        extension="${file##*.}"
+        
+        # Rename the file using the naming convention
+        new_name="inductor_${index}.$extension"
+        mv "$file" "$new_name"
+        
+        # Increment the index
+        ((index++))
+    fi
+done

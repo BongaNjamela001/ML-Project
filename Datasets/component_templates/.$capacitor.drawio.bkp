@@ -1,0 +1,34 @@
+<mxfile host="Electron" modified="2024-05-15T22:11:06.734Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="bwKwFBYbun0wNXdt_zGk" version="24.2.5" type="device">
+  <diagram name="Page-1" id="3yHXsXy3GaDdZvMfvjRr">
+    <mxGraphModel dx="1674" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="viRLm-1kdVlqscqhSmVz-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="520" y="354" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="viRLm-1kdVlqscqhSmVz-2" value="" style="triangle;whiteSpace=wrap;html=1;strokeWidth=2.5;strokeColor=white;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="556.25" y="388.38" width="47.5" height="51.25" as="geometry" />
+        </mxCell>
+        <mxCell id="viRLm-1kdVlqscqhSmVz-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2.5;strokeColor=white;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="603.75" y="413.77" as="sourcePoint" />
+            <mxPoint x="623.75" y="413.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viRLm-1kdVlqscqhSmVz-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2.5;strokeColor=white;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="536.25" y="413.77" as="sourcePoint" />
+            <mxPoint x="556.25" y="413.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viRLm-1kdVlqscqhSmVz-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2.5;strokeColor=white;exitX=0.7;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="viRLm-1kdVlqscqhSmVz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="603.75" y="404.12" as="sourcePoint" />
+            <mxPoint x="604" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
